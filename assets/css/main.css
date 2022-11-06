@@ -46,7 +46,7 @@
 
   .wrapper {
     max-width: 800px;
-    margin: 60px auto; }
+    margin: 20px auto; }
 
 /* =Header *//*************************************************************/
   .header {
@@ -80,14 +80,17 @@
     font-weight: 400; }
 
   .social-links {
-    float: center;
+    /* float: center; */
+    text-align: center;
     font-size: 150%;
     color: #828282;
+    padding-inline-start: 0px;
     list-style-type: none; }
 
   .social-links__entry {
     display: inline-block;
-    margin-left: 10px; }
+    margin-right: 10px; 
+  }
 
 
 /* =Titles *//*************************************************************/
