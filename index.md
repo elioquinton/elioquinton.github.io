@@ -9,6 +9,7 @@ sitemap:
 <img src="{{ '/assets/img/elio.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>I am interested in AI and its applications to Audio and music</p>
+	<p>Currently Senior Director of Machine Learning and Audio R&D at Universal Music Group, where I founded and lead the Music & Audio Machine Learning lab.</p>
+	<p>Elio holds a PhD from C4DM, trained physics MSc and diploma in Commercial Music performance at <strong> <a href="https://www.bimm.ac.uk/london/"> BIMM London</a> </strong> </p>
 </div>
