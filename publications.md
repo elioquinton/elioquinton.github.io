@@ -7,25 +7,52 @@ subtitle: Scientific and for the general public
 Some of my machine learning scientific research work is published in top-tier peer-reviewed conferences and journals. 
 I also like to write about music, science and technology in formats accessible to the general public. 
 
+<br>
 
-## General public publications
+### GENERAL PUBLIC
 
 
 [**How artists get paid from music streaming**](https://pudding.cool/2022/06/streaming/) - Visual Essay - [The Pudding](https://pudding.cool/) <span style="float: right; ">2022</span>  
 A visual essay describing some of the basic mechanisms that underpin music streaming.
 
+<br>
 
-## Scientific publications
+### SCIENTIFIC PUBLICATIONS
 
 Full list on my [Google Scholar profile](https://scholar.google.com/citations?user=IaciybgAAAAJ).
 A few selected publications below: 
 
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+[**Equivariant Self-Supervision for Musical Tempo Estimation**](https://arxiv.org/abs/2209.01478) <span style="float: right; ">2022</span>  
+E Quinton -
+_Proceedings of the 23rd Conference of the International Society for Music Information Retrieval (ISMIR 2022)_ 
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+[**Contrastive audio-language learning for music**](https://arxiv.org/abs/2208.12208) <span style="float: right; ">2022</span>  
+I Manco, E Benetos, E Quinton, G Fazekas -
+_Proceedings of the 23rd Conference of the International Society for Music Information Retrieval (ISMIR 2022)_ 
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+[**Learning music audio representations via weak language supervision**](https://arxiv.org/abs/2112.04214) <span style="float: right; ">2022</span>  
+I Manco, E Benetos, E Quinton, G Fazekas -
+_IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_ 
+
+[**MusCaps: Generating Captions for Music Audio**](https://arxiv.org/abs/2104.11984) <span style="float: right; ">2021</span>  
+I Manco, E Benetos, E Quinton, G Fazekas -
+_International Joint Conference on Neural Networks (IJCNN)_ 
+
+[**Tracking metrical structure changes with sparse-NMF**](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/19780/O%27Hanlon%20TRACKING%20METRICAL%20STRUCTURE%202017%20Accepted.pdf?sequence=1) <span style="float: right; ">2017</span>  
+E Quinton, K O'Hanlon, S Dixon, M Sandler -
+_IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_ 
+
+[**Estimation of the reliability of multiple rhythm features extraction from a single descriptor**](https://www.eecs.qmul.ac.uk/~simond/pub/2016/Quinton-Sandler-Dixon-ICASSP2016.pdf) <span style="float: right; ">2016</span>  
+E Quinton, M Sandler, S Dixon -
+_IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_ 
+
+[**Computational ethnomusicology for exploring trends in Trinidad steelband music through history**](https://d1wqtxts1xzle7.cloudfront.net/64925442/CMMR_Paper-libre.pdf?1605272761=&response-content-disposition=inline%3B+filename%3DExploring_Trends_in_Trinidad_Steelband_M.pdf&Expires=1667857455&Signature=NOgw7EE9uTeywIRGyqUG91pReJ0eaeE8zpyELiDxh~YErgFQFL-Zu7WDL-c0L1Qo1w2bBwUlidE6hdA-FA-F086uWdSDs3hVpneM5KsRDeNcZ--oWQHrlelMRWiRsjpjrm7VW4dk4eq3mtBy9FPsTOhRiIP9PmOOkIkt4uVZYMYQ8djacZyqSNnjNBO6fXGM57w5ZB5UW9jbMh9nRRUWIEJtBec8eguEU39Ars2NrAzLP2Y6ef9k0PAUM1c0TeooDbsEf6lHnp1odxIcohh4Jecl8vA8C-xvFi9EjyQDqJlr~ybtDjMhMFO13B8oOlucI-Nsp5093P8375QBlho3AQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) <span style="float: right; ">2017</span>  
+E Quinton, F Spielmann, BL Sturm -
+_International Symposium on Computer Music Multidisciplinary Research (CMMR)_ 
+
+[**Extraction of metrical structure from music recordings**](https://www.ntnu.edu/documents/1001201110/1266017954/DAFx-15_submission_41_final.pdf) <span style="float: right; ">2015</span>  
+E Quinton, C Harte, M Sandler -
+_International Conference on Digital Audio Effects (DAFx)_ 
+
+
