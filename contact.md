@@ -6,24 +6,6 @@ subtitle:
 <!-- Contact form setup using Herotofu: https://herotofu.com/solutions/guides/jekyll-contact-form -->
 
 
-
-<!-- <form action="https://public.herotofu.com/v1/351dc4b0-aa12-11ed-a31e-753411848f80" method="POST" target="_blank">
-  <div class="mb-3 pt-0">
-    <input type="text" placeholder="Your name" name="name" required />
-  </div>
-  <div class="mb-3 pt-0">
-    <input type="email" placeholder="Email" name="email" required />
-  </div>
-  <div class="mb-3 pt-0">
-    <textarea placeholder="Your message" name="message" required></textarea>
-  </div>
-  <div class="mb-3 pt-0">
-    <button type="submit">Send a message</button>
-  </div>
-</form> -->
-
-
-
 <form action="https://public.herotofu.com/v1/351dc4b0-aa12-11ed-a31e-753411848f80" method="POST" target="_blank">
     <div class="field">
         <label class="label">Name</label>
@@ -35,9 +17,9 @@ subtitle:
         <label class="label">Email</label>
         <div class="control has-icons-left">
             <input class="input"  type="email" placeholder="Email" name="email" required />
-            <!-- <span class="icon is-small is-left">
+            <span class="icon is-small is-left">
             <i class="fas fa-envelope"></i>
-            </span> -->
+            </span>
         </div>
     </div>
     <div class="field">
