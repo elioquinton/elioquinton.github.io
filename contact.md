@@ -3,11 +3,14 @@ layout: page
 title: Contact
 subtitle: 
 ---
+<!-- Contact form setup using Herotofu: https://herotofu.com/solutions/guides/jekyll-contact-form -->
 
-Contact form
 
+
+<br>
 <script src="https://unpkg.com/tailwindcss-jit-cdn"></script>
-<form action="{FORM_ENDPOINT}" method="POST" target="_blank" align="center">
+<form action="https://public.herotofu.com/v1/351dc4b0-aa12-11ed-a31e-753411848f80" method="POST" 
+target="_blank">
 <div class="mb-3 pt-0">
     <input
     type="text"
@@ -38,7 +41,8 @@ Contact form
     <button
     class="bg-blue-500 text-white active:bg-blue-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150"
     type="submit"
-    >Send a message</button>
+    >Submit</button>
 </div>
 </form>
+<br>
 
