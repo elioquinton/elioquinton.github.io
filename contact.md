@@ -6,7 +6,7 @@ hide_hero: true
 ---
 <!-- Contact form setup using Herotofu: https://herotofu.com/solutions/guides/jekyll-contact-form -->
 
-
+<!-- #TODO: Wrap in a column to center and reduce width https://bulma.io/documentation/columns/sizes/-->
 <form action="https://public.herotofu.com/v1/351dc4b0-aa12-11ed-a31e-753411848f80" method="POST" target="_blank">
     <div class="field">
         <label class="label">Name</label>
@@ -33,6 +33,5 @@ hide_hero: true
         <button class="button is-link" type="submit" value="Download CTA">Submit</button>
     </div>
 </form>
-
 
 

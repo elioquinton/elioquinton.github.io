@@ -13,8 +13,9 @@ hide_hero: true
 
 blah blah
 
-
-<img src="{{ '/assets/img/elio.jpg' | prepend: site.baseurl }}" id="about-img">
+<figure class="image is-128x128">
+    <img class="is-rounded" src="{{ '/assets/img/elio.jpg' | prepend: site.baseurl }}">
+</figure>
 
 <div id="describe-text">
 	<p>I am interested in AI and its applications to Audio and music</p>
