@@ -15,12 +15,8 @@ subtitle: An awesome person
 ### EMPLOYMENT HISTORY
 
 **Senior Director, Machine Learning and Audio R&D** - Universal Music Group <span style="float: right; ">2022 - Now</span>  
-_Secured funding for headcount growth_   
-
- 
 **R&D Manager, Machine Learning and Audio** - Universal Music Group <span style="float: right; ">2017 - 2022</span>  
-_I created and lead the Music & Audio Machine Learning Lab (MAML)_
-
+<!-- _I created and lead the Music & Audio Machine Learning Lab (MAML)_ -->
 **Post-doctoral Research Scientist** - Queen Mary University of London <span style="float: right; ">2016 - 2017</span>  
 **Resident Machine Learning, Audio and Music Scientist** - Omnifone <span style="float: right; ">2013 - 2016</span>  
 
@@ -39,21 +35,18 @@ _I created and lead the Music & Audio Machine Learning Lab (MAML)_
 ### EDUCATION
 
 **PhD in Music Information Retrieval (Audio DSP & ML)** <span style="float: right; ">2016</span>  
-_Queen Mary University of London (C4DM)_
-
+_Queen Mary University of London (C4DM)_\\
 **Diploma in Commercial Music Performance** <span style="float: right; ">2012</span>  
-_BIMM London (formerly Tech Music School)_
-
+_BIMM London (formerly Tech Music School)_\\
 **MA: Art Science and Technology** <span style="float: right; ">2011</span>  
-_Grenoble-INP ACROE-ICA_
-
+_Grenoble-INP ACROE-ICA_\\
 **MSc: Physics and Nanoscience** <span style="float: right; ">2011</span>  
 _Grenoble-INP Phelma_
 
 ### PROJECTS
 
 ### TECHNOLOGIES
-```Python, Pytorch, Tensorflow, Keras, sklearn, Numpy, Scipy, Flask, Gensim, Pytest, Docker, SQL, Javascript, HTML, CSS, Jekyll, bash, Elasticsearch, Neo4j, AWS (Sagemaker, EKS, Batch, EC2, EFS, ECR, IAM), GCP (BigQuery, Cloud Functions, Compute, Storage, IAM), CI/CD (Tekton, Github actions), Kubernetes```
+```Python, Pytorch, Tensorflow, Keras, sklearn, Numpy, Scipy, Flask, Gensim, Pytest, Docker, SQL, Javascript, HTML, CSS, Jekyll, bash, Elasticsearch, Neo4j, AWS (Sagemaker, EKS, Batch, EC2, EFS, ECR, IAM, Lambda), GCP (BigQuery, Cloud Functions, Compute, Storage, IAM), CI/CD (Tekton, Github actions), Kubernetes```
 
 ### RECOGNITION & INTERESTS
 

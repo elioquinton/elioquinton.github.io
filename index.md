@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elio Quinton
-subtitle: AI, audio, Music
+subtitle: AI, Audio, Music
 sitemap:
   priority: 0.9
 ---
