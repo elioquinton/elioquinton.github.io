@@ -1,10 +1,18 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: page
 title: Elio Quinton
 subtitle: AI, Audio, Music
-sitemap:
-  priority: 0.9
+hide_hero: true
 ---
+
+
+# Header
+
+blah blah
+
 
 <img src="{{ '/assets/img/elio.jpg' | prepend: site.baseurl }}" id="about-img">
 
