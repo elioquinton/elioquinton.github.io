@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 subtitle: 
+hide_hero: true
 ---
 <!-- Contact form setup using Herotofu: https://herotofu.com/solutions/guides/jekyll-contact-form -->
 
