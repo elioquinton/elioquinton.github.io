@@ -9,13 +9,20 @@ hide_hero: true
 ---
 
 
-# Header
+# Elio Quinton
 
-blah blah blah blah
+AI, Audio, Music
 
-<figure class="image is-128x128">
-    <img class="is-rounded" src="{{ '/assets/img/elio.jpg' | prepend: site.baseurl }}">
-</figure>
+
+<div class="level">
+  <div class="level-item has-text-centered">
+		<figure class="image is-128x128 is-centered">
+		<img class="is-rounded" src="{{ '/assets/img/elio.jpg' | prepend: site.baseurl }}">
+		</figure>
+  </div>
+</div>
+
+
 
 <div id="describe-text">
 	<p>I am interested in AI and its applications to Audio and music</p>
