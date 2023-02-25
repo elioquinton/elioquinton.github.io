@@ -2,7 +2,11 @@
 layout: page
 title: Publications
 subtitle: Scientific and for the general public
+hide_hero: true
 ---
+
+# Publications
+
 
 Some of my machine learning scientific research work is published in top-tier peer-reviewed conferences and journals. 
 I also like to write about music, science and technology in formats accessible to the general public. 
