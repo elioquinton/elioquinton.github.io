@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
+layout: landing_page
 title: Elio Quinton
 subtitle: AI, Audio, Music
 hide_hero: true
@@ -11,7 +11,7 @@ hide_hero: true
 
 # Header
 
-blah blah
+blah blah blah blah
 
 <figure class="image is-128x128">
     <img class="is-rounded" src="{{ '/assets/img/elio.jpg' | prepend: site.baseurl }}">
