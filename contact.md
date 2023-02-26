@@ -4,6 +4,15 @@ title: Contact
 subtitle: 
 hide_hero: true
 ---
+
+
+# CONTACT
+
+Fill the form below to get in touch!
+
+----
+
+
 <!-- Contact form setup using Herotofu: https://herotofu.com/solutions/guides/jekyll-contact-form -->
 
 <!-- #TODO: Wrap in a column to center and reduce width https://bulma.io/documentation/columns/sizes/-->
@@ -19,7 +28,7 @@ hide_hero: true
         <div class="control has-icons-left">
             <input class="input"  type="email" placeholder="Email" name="email" required />
             <span class="icon is-small is-left">
-            <i class="fas fa-envelope"></i>
+            <i class="fa fa-envelope"></i>
             </span>
         </div>
     </div>
