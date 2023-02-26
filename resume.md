@@ -6,9 +6,9 @@ hide_hero: true
 
 # RESUME
 
-Elio is a scientist, engineer and leader, with primary expertise in Artificial Intelligence (AI), Audio Digital Signal Processing and Music. 
+<!-- Elio is a scientist, engineer and leader, with primary expertise in Artificial Intelligence (AI), Audio Digital Signal Processing and Music. 
 
-Currently Senior Director of Machine Learning and Audio R&D at Universal Music Group (UMG), where he founded and lead the _Music & Audio Machine Learning Lab (MAML)_, the first ever Machine Learning R&D group in the recorded music industry. The MAML develops cutting edge technology to support and empower artists globally. 
+Currently Senior Director of Machine Learning and Audio R&D at Universal Music Group (UMG), where he founded and lead the _Music & Audio Machine Learning Lab (MAML)_, the first ever Machine Learning R&D group in the recorded music industry. The MAML develops cutting edge technology to support and empower artists globally.  -->
 
 ----
 
@@ -40,7 +40,7 @@ Currently Senior Director of Machine Learning and Audio R&D at Universal Music G
 #### NON PROFIT & COMMUNITY SERVICE
 
 | :--- | ---:|
-| **Founder and co-organisaer** - [London Audio & Music AI Meetup](https://www.meetup.com/london-audio-and-music-ai-meetup/) | 2020 - Now |  
+| **Founder and co-organiser** - [London Audio & Music AI Meetup](https://www.meetup.com/london-audio-and-music-ai-meetup/) | 2020 - Now |  
 | **Reviewer** - ML/audio/music publications (ISMIR, TISMIR, Audio Mostly etc.) | 2015 - Now |  
 | **Mentor** - [Women in Music Information Retrieval “WiMIR”](https://wimir.wordpress.com) | 2018 - Now |  
 | **Mentor** - [Help Musician Co-Pilot program](https://www.helpmusicians.org.uk/get-support/develop-as-a-musician/co-pilot-the-musicians-mentoring-network) | 2022 |  
