@@ -13,6 +13,7 @@ hide_hero: true
 
 AI, Audio, Music
 
+<br>
 
 <div class="level">
   <div class="level-item has-text-centered">
@@ -22,7 +23,7 @@ AI, Audio, Music
   </div>
 </div>
 
-
+<br>
 
 <div id="describe-text">
 	<p>I am interested in AI and its applications to Audio and music</p>

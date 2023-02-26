@@ -12,23 +12,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi.
 
 <br>
 
-<!-- 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```   -->
-
-
+<!-- Remove borders from tables. I could not make it work via the SCSS file. -->
+<style>
+    .content table td, .content table th { border: 0px solid #dbdbdb; border-width: 0 0 0px; padding: 0.25em 0.75em; vertical-align: top; }
+</style>
 
 #### EMPLOYMENT HISTORY
 
 | :--- | ---:|
-| **Senior Director, Machine Learning and Audio R&D** - Universal Music Group | 2022 - Now|
-| **R&D Manager, Machine Learning and Audio** - Universal Music Group | 2017 - 2022 |  
-| **Post-doctoral Research Scientist** - Queen Mary University of London | 2016 - 2017 |  
+| **Senior Director, Machine Learning and Audio R&D** - [Universal Music Group](https://www.universalmusic.com/) | 2022 - Now|
+| **R&D Manager, Machine Learning and Audio** - [Universal Music Group](https://www.universalmusic.com/) | 2017 - 2022 |  
+| **Post-doctoral Research Scientist** - [Queen Mary University of London](https://c4dm.eecs.qmul.ac.uk) | 2016 - 2017 |  
 | **Resident Machine Learning, Audio and Music Scientist** - Omnifone | 2013 - 2016 |  
 
 <br>
 
-#### CONSULTING AND ADVISORY WORK
+#### CONSULTING & ADVISORY WORK
 
 | :--- | ---:|
 | **Industrial Advisory Board Member** - Queen Mary University of London | 2019 - Now |  
@@ -60,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi.
 <br>
 
 #### TECHNOLOGIES
-```Python, Pytorch, Tensorflow, Keras, sklearn, Numpy, Scipy, Airflow, Flask, Gensim, Pytest, Docker, SQL, Javascript, HTML, CSS, Jekyll, bash, Elasticsearch, Neo4j, AWS (Sagemaker, EKS, Batch, EC2, EFS, ECR, IAM, Lambda), GCP (BigQuery, Cloud Functions, Compute, Storage, IAM), CI/CD (Tekton, Github actions), Kubernetes```
+```Python, Pytorch, Tensorflow, Keras, sklearn, Numpy, Scipy, Airflow, Flask, Gensim, Pytest, Docker, SQL, Javascript, HTML, CSS, Jekyll, bash, Elasticsearch, Neo4j, AWS (Sagemaker, EKS, Batch, EC2, EFS, ECR, IAM, Lambda), GCP (BigQuery, Cloud Functions, Compute, Storage, IAM), CI/CD (Tekton, Github actions), Git, Kubernetes```
 
 
 <!-- ### RECOGNITION & INTERESTS
