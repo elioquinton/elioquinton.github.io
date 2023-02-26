@@ -29,3 +29,4 @@ AI, Audio, Music
 	<p>Currently Senior Director of Machine Learning and Audio R&D at Universal Music Group, where I founded and lead the Music & Audio Machine Learning lab.</p>
 	<p>Elio holds a PhD from C4DM, trained physics MSc and diploma in Commercial Music performance at <strong> <a href="https://www.bimm.ac.uk/london/"> BIMM London</a> </strong> </p>
 </div>
+
