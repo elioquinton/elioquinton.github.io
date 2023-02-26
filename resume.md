@@ -6,7 +6,14 @@ hide_hero: true
 
 # RESUME
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.
+Elio is a scientist, engineer and leader, with primary expertise in Artificial Intelligence (AI), Audio Digital Signal Processing and Music. 
+
+Currently Senior Director of Machine Learning and Audio R&D at Universal Music Group (UMG), Elio brings along passion, excitment about the future and over a decade of experience in Artificial Intelligence, Software Engineering, Audio, Music, Music Technology and the Music Industry. 
+
+At UMG he founded and lead the _Music & Audio Machine Learning Lab (MAML)_, the first ever Machine Learning R&D group in the recorded music industry. The MAML develops cutting edge technology to support and empower artists globally. 
+
+Trained both as a scientist, engineer and musician, Elio holds a PhD from the world-leading [Center for Digital Music](https://c4dm.eecs.qmul.ac.uk), a Physics MSc and a diploma in Commercial Music performance from [BIMM London](https://www.bimm.ac.uk).
+
 
 ----
 
