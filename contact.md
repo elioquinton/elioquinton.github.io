@@ -8,7 +8,7 @@ hide_hero: true
 
 # CONTACT
 
-Fill the form below to get in touch!
+Please use the form below to get in touch
 
 ----
 
