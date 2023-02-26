@@ -10,8 +10,17 @@ hide_hero: true
 
 
 # Elio Quinton
+<!-- # ELIO QUINTON -->
 
+ <!-- <p class="is-size-5">
 AI, Audio, Music
+</p> -->
+ <p class="is-size-5">
+AI  -  Audio  -  Music
+</p>
+ <!-- <p class="is-size-5">
+AI - AUDIO - MUSIC
+</p> -->
 
 <br>
 
@@ -25,9 +34,15 @@ AI, Audio, Music
 
 <br>
 
-<div id="describe-text">
-	<p>I am interested in AI and its applications to Audio and music</p>
-	<p>Currently Senior Director of Machine Learning and Audio R&D at Universal Music Group, where I founded and lead the Music & Audio Machine Learning lab.</p>
-	<p>Elio holds a PhD from C4DM, trained physics MSc and diploma in Commercial Music performance at <strong> <a href="https://www.bimm.ac.uk/london/"> BIMM London</a> </strong> </p>
-</div>
+
+Elio is a scientist and engineer, with primary expertise in Artificial Intelligence (AI), Audio Digital Signal Processing and Music. 
+
+Currently Senior Director of Machine Learning and Audio R&D at Universal Music Group (UMG), Elio brings along passion, excitment about the future and over a decade of experience in Artificial Intelligence, Software Engineering, Audio, Music, Music Technology and the Music Industry. 
+
+At UMG he founded and lead the _Music & Audio Machine Learning Lab (MAML)_, the first ever Machine Learning R&D group in the recorded music industry. The MAML develops cutting edge technology to support and empower artists globally. 
+
+Trained both as a scientist, engineer and musician, Elio holds a PhD from the world-leading [Center for Digital Music](https://c4dm.eecs.qmul.ac.uk), a Physics MSc and a diploma in Commercial Music performance from [BIMM London](https://www.bimm.ac.uk).
+
+
+
 
