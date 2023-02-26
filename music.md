@@ -7,7 +7,7 @@ hide_hero: true
 
 # Music
 
-I also play and record music. Some of it can be found below.
+I also play, record and produce music. Some of it can be found below.
 
 ----
 
