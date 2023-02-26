@@ -6,13 +6,19 @@ hide_hero: true
 
 # RESUME
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.
 
+----
+
+<br>
+
+<!-- 
 ### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```   -->
 
 
 
-### EMPLOYMENT HISTORY
+#### EMPLOYMENT HISTORY
 
 | :--- | ---:|
 | **Senior Director, Machine Learning and Audio R&D** - Universal Music Group | 2022 - Now|
@@ -20,15 +26,17 @@ hide_hero: true
 | **Post-doctoral Research Scientist** - Queen Mary University of London | 2016 - 2017 |  
 | **Resident Machine Learning, Audio and Music Scientist** - Omnifone | 2013 - 2016 |  
 
+<br>
 
-### CONSULTING AND ADVISORY WORK
+#### CONSULTING AND ADVISORY WORK
 
 | :--- | ---:|
 | **Industrial Advisory Board Member** - Queen Mary University of London | 2019 - Now |  
 | **Machine Learning Consultant** - [Modal](https://www.modal.org.uk) | 2019 - 2022 |  
 
+<br>
 
-### NON PROFIT & COMMUNITY SERVICE
+#### NON PROFIT & COMMUNITY SERVICE
 
 | :--- | ---:|
 | **Founder and co-organisaer** - [London Audio & Music AI Meetup](https://www.meetup.com/london-audio-and-music-ai-meetup/) | 2020 - Now |  
@@ -36,8 +44,9 @@ hide_hero: true
 | **Mentor** - [Women in Music Information Retrieval “WiMIR”](https://wimir.wordpress.com) | 2018 - Now |  
 | **Mentor** - [Help Musician Co-Pilot program](https://www.helpmusicians.org.uk/get-support/develop-as-a-musician/co-pilot-the-musicians-mentoring-network) | 2022 |  
 
+<br>
 
-### EDUCATION
+#### EDUCATION
 
 | :--- | ---:|
 | **PhD in Machine Learning & Audio DSP** - [Queen Mary University of London (C4DM)](https://c4dm.eecs.qmul.ac.uk) | 2016 |
@@ -48,7 +57,9 @@ hide_hero: true
 
 <!-- ### PROJECTS -->
 
-### TECHNOLOGIES
+<br>
+
+#### TECHNOLOGIES
 ```Python, Pytorch, Tensorflow, Keras, sklearn, Numpy, Scipy, Airflow, Flask, Gensim, Pytest, Docker, SQL, Javascript, HTML, CSS, Jekyll, bash, Elasticsearch, Neo4j, AWS (Sagemaker, EKS, Batch, EC2, EFS, ECR, IAM, Lambda), GCP (BigQuery, Cloud Functions, Compute, Storage, IAM), CI/CD (Tekton, Github actions), Kubernetes```
 
 
