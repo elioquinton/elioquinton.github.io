@@ -36,7 +36,7 @@ AI - AUDIO - MUSIC
 <br>
 
 
-Elio is a scientist, engineer and leader, with primary expertise in Artificial Intelligence (AI), Audio Digital Signal Processing and Music. 
+**Elio is a scientist, engineer and leader, with primary expertise in Artificial Intelligence (AI), Audio Digital Signal Processing and Music.**
 
 Currently Senior Director of Machine Learning and Audio R&D at Universal Music Group (UMG), Elio brings along over a decade of experience in Artificial Intelligence, Machine Learning (ML), Software Engineering, Audio, Music, Music Technology and the Music Industry. 
 
