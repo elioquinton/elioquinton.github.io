@@ -1,0 +1,8 @@
+- name: Resume
+  link: /resume/
+- name: Publications
+  link: /publications/
+- name: Music
+  link: /music/
+- name: Contact
+  link: /contact/
