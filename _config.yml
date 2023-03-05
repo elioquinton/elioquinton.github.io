@@ -31,6 +31,8 @@ linkedin_username: elio-quinton-22801952
 github_username: Quint-e
 scholar_username: IaciybgAAAAJ
 
+permalink: pretty 
+
 # Build settings
 # theme: minima
 remote_theme: chrisrhymes/bulma-clean-theme
