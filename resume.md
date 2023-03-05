@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Résumé
+description: Elio Quinton resume
 hide_hero: true
 ---
 

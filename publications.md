@@ -2,22 +2,10 @@
 layout: page
 title: Publications
 subtitle: Scientific and for the general public
-# intro_text: Some of my machine learning scientific research work is published in top-tier peer-reviewed conferences and journals. I also like to write about music, science and technology in formats accessible to the general public. 
+description: Elio Quinton publications
 hide_hero: True
 hero_height: is-small is-blue
 ---
-
-
-<!-- {% include notification.html
-message="
-# Publications
-
-Some of my machine learning scientific research work is published in top-tier peer-reviewed conferences and journals. 
-I also like to write about music, science and technology in formats accessible to the general public. 
-
-"
-icon="false"
-status="is-grey" %} -->
 
 # PUBLICATIONS
 

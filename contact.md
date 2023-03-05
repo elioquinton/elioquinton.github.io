@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 subtitle: 
+description: Elio Quinton contact form
 hide_hero: true
 ---
 
