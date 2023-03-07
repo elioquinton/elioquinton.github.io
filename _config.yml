@@ -28,6 +28,11 @@ google_analytics: G-NHE0NG5KTF
 lang: en
 favicon: assets/img/elio.jpg
 
+author:
+    name: Elio Quinton
+    url: https://elioquinton.github.io
+
+
 twitter_username: elio_elioo
 linkedin_username: elio-quinton-22801952
 github_username: Quint-e
