@@ -28,15 +28,30 @@ google_analytics: G-NHE0NG5KTF
 lang: en
 favicon: assets/img/elio.jpg
 
+# Author info for SEO
 author:
     name: Elio Quinton
     url: https://elioquinton.github.io
 
+# Social links for usage across the site
+twitter:
+  username: elio_elioo
+linkedin:
+  username: elio-quinton-22801952
+github:
+  username: Quint-e
+scholar:
+  username: IaciybgAAAAJ
 
-twitter_username: elio_elioo
-linkedin_username: elio-quinton-22801952
-github_username: Quint-e
-scholar_username: IaciybgAAAAJ
+# Add social links for SEO (http://jekyll.github.io/jekyll-seo-tag/usage/)
+social:
+  name: Elio Quinton
+  links:
+    - https://twitter.com/elio_elioo
+    - https://www.linkedin.com/in/elio-quinton-22801952
+    - https://github.com/Quint-e
+    - https://https://scholar.google.com/citations?user=IaciybgAAAAJ
+
 
 permalink: pretty 
 
