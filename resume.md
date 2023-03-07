@@ -7,6 +7,8 @@ hide_hero: true
 
 # RESUME
 
+With a over a decade of experience as a Scientist, Engineer, Leader, Advisor and Consultant, Elio brings along expertise in Artificial Intelligence (AI), Machine Learning (ML), Software Engineering, Audio, Music, Music Technology and the Music Industry.
+
 <!-- Elio is a scientist, engineer and leader, with primary expertise in Artificial Intelligence (AI), Audio Digital Signal Processing and Music. 
 
 Currently Senior Director of Machine Learning and Audio R&D at Universal Music Group (UMG), where he founded and lead the _Music & Audio Machine Learning Lab (MAML)_, the first ever Machine Learning R&D group in the recorded music industry. The MAML develops cutting edge technology to support and empower artists globally.  -->
