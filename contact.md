@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 subtitle: 
-description: Elio Quinton contact form
+description: Contact form for advice, professional engagement or general enquiries
 hide_hero: true
 ---
 

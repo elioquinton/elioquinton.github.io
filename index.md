@@ -5,7 +5,7 @@
 layout: landing_page
 # title: Elio Quinton
 title: AI, Audio, Music # "title" attribute is used to make unique page title (shown in browser tab)
-description: Elio Quinton is a scientist, engineer, consultant and leader expert in Artificial Intelligence (AI), Machine Learning, Audio Digital Signal Processing and Music. 
+description: Elio Quinton is a scientist, engineer, consultant and leader expert in Artificial Intelligence, AI, Machine Learning, Audio Digital Signal Processing and Music. 
 hide_hero: true
 ---
 

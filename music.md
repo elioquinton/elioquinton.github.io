@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Music
+description: A short selection of Elio Quinton's music
 subtitle: 
 hide_hero: true
 ---

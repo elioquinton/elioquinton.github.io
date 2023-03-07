@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 subtitle: Scientific and for the general public
-description: Elio Quinton publications
+description: A few selected publications, in scientific top-tier peer-reviewed venues and for the general public
 hide_hero: True
 hero_height: is-small is-blue
 ---
