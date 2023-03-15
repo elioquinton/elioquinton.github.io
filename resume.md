@@ -44,7 +44,7 @@ Currently Senior Director of Machine Learning and Audio R&D at Universal Music G
 
 | :--- | ---:|
 | **Founder and co-organiser** - [London Audio & Music AI Meetup](https://www.meetup.com/london-audio-and-music-ai-meetup/) | 2020 - Now |  
-| **Reviewer** - ML/audio/music publications (ISMIR, TISMIR, Audio Mostly etc.) | 2015 - Now |  
+| **Reviewer** - ML/audio/music publications (ISMIR, TISMIR, AIMC, Audio Mostly etc.) | 2015 - Now |  
 | **Mentor** - [Women in Music Information Retrieval “WiMIR”](https://wimir.wordpress.com) | 2018 - Now |  
 | **Mentor** - [Help Musician Co-Pilot program](https://www.helpmusicians.org.uk/get-support/develop-as-a-musician/co-pilot-the-musicians-mentoring-network) | 2022 |  
 
