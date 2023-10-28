@@ -25,7 +25,8 @@ Currently Senior Director of Machine Learning and Audio R&D at Universal Music G
 #### EMPLOYMENT HISTORY
 
 | :--- | ---:|
-| **Senior Director, Machine Learning and Audio** - [Universal Music Group](https://www.universalmusic.com/) | 2022 - Now|
+| **VP, Artificial Intelligence** - [Universal Music Group](https://www.universalmusic.com/) | 2023 - Now|
+| **Senior Director, Machine Learning and Audio** - [Universal Music Group](https://www.universalmusic.com/) | 2022 - 2023|
 | **R&D Manager, Machine Learning and Audio** - [Universal Music Group](https://www.universalmusic.com/) | 2017 - 2022 |  
 | **Post-doctoral Research Scientist** - [Queen Mary University of London](https://c4dm.eecs.qmul.ac.uk) | 2016 - 2017 |  
 | **Resident Machine Learning, Audio and Music Scientist** - Omnifone | 2013 - 2016 |  
