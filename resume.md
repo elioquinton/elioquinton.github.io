@@ -36,8 +36,9 @@ Currently Senior Director of Machine Learning and Audio R&D at Universal Music G
 #### CONSULTING & ADVISORY WORK
 
 | :--- | ---:|
+| **Board Member** - [International Society of Music Information Retrieval](https://ismir.net/) | 2024 - Now |  
 | **Advisor** - [RoEx](https://www.roexaudio.com) | 2023 - Now |  
-| **Industrial Advisory Board Member** - Queen Mary University of London | 2019 - Now |  
+| **Industrial Advisory Board Member** - [Queen Mary University of London](http://www.eecs.qmul.ac.uk/) | 2019 - 2024 |  
 | **Machine Learning Consultant** - [Modal](https://www.modal.org.uk) | 2019 - 2022 |  
 
 <br>
