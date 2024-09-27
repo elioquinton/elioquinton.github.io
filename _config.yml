@@ -28,6 +28,9 @@ google_analytics: G-NHE0NG5KTF
 lang: en
 favicon: assets/img/elio.jpg
 
+# Repository to keep Github Actions and Pages happy
+repository: elioquinton/elioquinton.github.io
+
 # Author info for SEO
 author:
     name: Elio Quinton
