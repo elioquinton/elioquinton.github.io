@@ -63,6 +63,7 @@ permalink: pretty
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
