@@ -9,7 +9,7 @@ hero_height: is-small is-blue
 
 # PUBLICATIONS
 
-Some of my machine learning scientific research work is published in top-tier peer-reviewed conferences and journals. 
+Some of my scientific research work is published in top-tier peer-reviewed conferences and journals. 
 I also like to write about music, science and technology in formats accessible to the general public. 
 
 ----
@@ -33,7 +33,7 @@ A few selected publications below:
 
 [**Muchomusic: Evaluating music understanding in multimodal audio-language models**](https://arxiv.org/abs/2408.01337) \\
 B Weck, I Manco, E Benetos, E Quinton, G Fazekas -
-_Proceedings of the 25th Conference of the International Society for Music Information Retrieval (ISMIR), 2024_   **Best Paper Award**
+_Proceedings of the 25th Conference of the International Society for Music Information Retrieval (ISMIR), 2024._  **Best Paper Award**
 
 [**Contrastive audio-language learning for music**](https://arxiv.org/abs/2208.12208) \\
 I Manco, E Benetos, E Quinton, G Fazekas -

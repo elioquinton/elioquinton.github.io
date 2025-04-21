@@ -36,7 +36,7 @@ AI - AUDIO - MUSIC
 <br>
 
 
-**Elio is a scientist, engineer and leader with over a decade of experience in Artificial Intelligence, Machine Learning, Software Engineering, Audio, and Music.**
+**Elio is a scientist, engineer and leader with over a decade of experience in Artificial Intelligence, Machine Learning, Software Engineering, Audio and Music.**
 
 Currently VP of Artificial Intelligence at Universal Music Group (UMG), and advisor to creative AI startups, Elio is passionate about pushing the frontier of technology, arts and media, and working with brilliant people.
 
