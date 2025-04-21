@@ -33,7 +33,7 @@ A few selected publications below:
 
 [**Muchomusic: Evaluating music understanding in multimodal audio-language models**](https://arxiv.org/abs/2408.01337) \\
 B Weck, I Manco, E Benetos, E Quinton, G Fazekas -
-_Proceedings of the 25th Conference of the International Society for Music Information Retrieval (ISMIR), 2024_ **Best Paper Award**
+_Proceedings of the 25th Conference of the International Society for Music Information Retrieval (ISMIR), 2024_   **Best Paper Award**
 
 [**Contrastive audio-language learning for music**](https://arxiv.org/abs/2208.12208) \\
 I Manco, E Benetos, E Quinton, G Fazekas -
