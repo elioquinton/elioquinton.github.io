@@ -7,7 +7,7 @@ hide_hero: true
 
 # RESUME
 
-With a over a decade of experience as a Scientist, Engineer, Leader, Advisor and Consultant, Elio brings along expertise in Artificial Intelligence (AI), Machine Learning (ML), Software Engineering, Audio, Music, Music Technology and the Music Industry.
+With a over a decade of experience as a Scientist, Engineer and Leader, Elio brings along expertise in Artificial Intelligence (AI), Machine Learning (ML), Software Engineering, Audio, Music, Music Technology and the Music Industry.
 
 <!-- Elio is a scientist, engineer and leader, with primary expertise in Artificial Intelligence (AI), Audio Digital Signal Processing and Music. 
 
@@ -68,7 +68,7 @@ Currently Senior Director of Machine Learning and Audio R&D at Universal Music G
 <br>
 
 #### TECHNOLOGIES
-```Python, Pytorch, Tensorflow, Keras, sklearn, Numpy, Scipy, Airflow, Flask, Gensim, Pytest, Docker, SQL, Javascript, HTML, CSS, Jekyll, bash, Elasticsearch, Neo4j, AWS (Sagemaker, EKS, Batch, EC2, EFS, ECR, IAM, Lambda), GCP (BigQuery, Cloud Functions, Compute, Storage, IAM), CI/CD (Tekton, Github actions), Git, Kubernetes```
+```Python, Pytorch, Tensorflow, Keras, LangChain, sklearn, Numpy, Scipy, Airflow, Flask, Gensim, Pytest, Docker, SQL, Javascript, HTML, CSS, Jekyll, bash, Elasticsearch, Neo4j, AWS (Sagemaker, EKS, Batch, EC2, EFS, ECR, IAM, Lambda, SNS, SQS), GCP (BigQuery, VertexAI, Cloud Functions, Compute, Storage, IAM), CI/CD (Tekton, Github actions), Git, Kubernetes```
 
 
 <!-- ### RECOGNITION & INTERESTS
