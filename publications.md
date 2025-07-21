@@ -18,6 +18,9 @@ I also like to write about music, science and technology in formats accessible t
 
 #### GENERAL PUBLIC
 
+[**Will AI be the electric guitar of the 21st century?**](https://elioquinton.substack.com/p/will-ai-be-the-electric-guitar-of) \\
+Exploring how artists abusing creative AI tools may bring about major creative breakthroughs in arts and music. \\
+_[Substack](https://elioquinton.substack.com/), 2025_
 
 [**How artists get paid from music streaming**](https://pudding.cool/2022/06/streaming/) \\
 A visual essay describing some of the basic mechanisms that underpin music streaming. \\
@@ -39,17 +42,25 @@ _Proceedings of the 25th Conference of the International Society for Music Infor
 I Manco, E Benetos, E Quinton, G Fazekas -
 _Proceedings of the 23rd Conference of the International Society for Music Information Retrieval (ISMIR), 2022_ 
 
+[**GD-Retriever: Controllable Generative Text-Music Retrieval with Diffusion Models**](https://www.arxiv.org/abs/2506.17886) \\
+J Guinot, E Quinton, G Fazekas -
+_Proceedings of the 26th Conference of the International Society for Music Information Retrieval (ISMIR), 2025_ 
+
 [**MusCaps: Generating Captions for Music Audio**](https://arxiv.org/abs/2104.11984) \\
 I Manco, E Benetos, E Quinton, G Fazekas - 
 _International Joint Conference on Neural Networks (IJCNN), 2021_ 
+
+[**The song describer dataset: a corpus of audio captions for music-and-language evaluation**](https://arxiv.org/abs/2311.10057)\\
+I Manco, B Weck, S Doh, M Won, Y Zhang, D Bogdanov, Y Wu, K Chen, P Tovstogan, E Benetos, E Quinton, G Fazekas, J Nam - 
+_Machine Learning for Audio Workshop, NeurIPS, 2023_ 
 
 [**Equivariant Self-Supervision for Musical Tempo Estimation**](https://arxiv.org/abs/2209.01478)\\
 E Quinton - 
 _Proceedings of the 23rd Conference of the International Society for Music Information Retrieval (ISMIR), 2022_ 
 
-[**The song describer dataset: a corpus of audio captions for music-and-language evaluation**](https://arxiv.org/abs/2311.10057)\\
-I Manco, B Weck, S Doh, M Won, Y Zhang, D Bogdanov, Y Wu, K Chen, P Tovstogan, E Benetos, E Quinton, G Fazekas, J Nam - 
-_Machine Learning for Audio Workshop, NeurIPS, 2023_ 
+[**SLAP: Siamese Language-Audio Pretraining Without Negative Samples for Music Understanding**](https://arxiv.org/abs/2506.17815) \\
+J Guinot, A Riou, E Quinton, G Fazekas -
+_Proceedings of the 26th Conference of the International Society for Music Information Retrieval (ISMIR), 2025_ 
 
 [**Learning music audio representations via weak language supervision**](https://arxiv.org/abs/2112.04214) \\
 I Manco, E Benetos, E Quinton, G Fazekas -
@@ -62,8 +73,4 @@ _Proceedings of the 25th Conference of the International Society for Music Infor
 [**Tracking metrical structure changes with sparse-NMF**](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/19780/O%27Hanlon%20TRACKING%20METRICAL%20STRUCTURE%202017%20Accepted.pdf?sequence=1) \\
 E Quinton, K O'Hanlon, S Dixon, M Sandler -
 _IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2017_ 
-
-[**Computational ethnomusicology for exploring trends in Trinidad steelband music through history**](https://d1wqtxts1xzle7.cloudfront.net/64925442/CMMR_Paper-libre.pdf?1605272761=&response-content-disposition=inline%3B+filename%3DExploring_Trends_in_Trinidad_Steelband_M.pdf&Expires=1667857455&Signature=NOgw7EE9uTeywIRGyqUG91pReJ0eaeE8zpyELiDxh~YErgFQFL-Zu7WDL-c0L1Qo1w2bBwUlidE6hdA-FA-F086uWdSDs3hVpneM5KsRDeNcZ--oWQHrlelMRWiRsjpjrm7VW4dk4eq3mtBy9FPsTOhRiIP9PmOOkIkt4uVZYMYQ8djacZyqSNnjNBO6fXGM57w5ZB5UW9jbMh9nRRUWIEJtBec8eguEU39Ars2NrAzLP2Y6ef9k0PAUM1c0TeooDbsEf6lHnp1odxIcohh4Jecl8vA8C-xvFi9EjyQDqJlr~ybtDjMhMFO13B8oOlucI-Nsp5093P8375QBlho3AQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) \\
-E Quinton, F Spielmann, BL Sturm - _International Symposium on Computer Music Multidisciplinary Research (CMMR), 2017_ 
-
 
