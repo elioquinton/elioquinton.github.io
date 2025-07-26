@@ -20,7 +20,7 @@ I also like to write about music, science and technology in formats accessible t
 
 [**Will AI be the electric guitar of the 21st century?**](https://elioquinton.substack.com/p/will-ai-be-the-electric-guitar-of) \\
 Exploring how artists abusing creative AI tools may bring about major creative breakthroughs in arts and music. \\
-_[Substack](https://elioquinton.substack.com/) & [Medium](https://medium.com/@elioquinton/will-ai-be-the-electric-guitar-of-the-21st-century-ac80ccab3b53), 2025_
+_[Substack](https://elioquinton.substack.com/p/will-ai-be-the-electric-guitar-of) & [Medium](https://medium.com/@elioquinton/will-ai-be-the-electric-guitar-of-the-21st-century-ac80ccab3b53), 2025_
 
 [**How artists get paid from music streaming**](https://pudding.cool/2022/06/streaming/) \\
 A visual essay describing some of the basic mechanisms that underpin music streaming. \\
